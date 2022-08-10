@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: #fcebe7 !important;
+}
+
+.contact-img{
+    background-color: inherit !important;
+    width:150px;
+    height:150px;
+    border-radius:50%
+}
+
+.contact-img-big{
+    background-color: inherit !important;
+    width:200px;
+    height:200px;
+    border-radius:50%
+}

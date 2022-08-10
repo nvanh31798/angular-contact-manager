@@ -1,0 +1,160 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Ngo Viet Anh",
+      "company": "NetCompany",
+      "email": "NgoVietAnh@gmail.com",
+      "title": "Developer",
+      "mobile": "0123456798",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.6435-9/40209927_1103348843152516_3410118129383112704_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Dm8d5-xLcSAAX9Ru5hd&tn=xbCYwBpydjWv86E_&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT-2ljBtIkbBCZBFU3tyAjPmqSKB-dIDF5Pctcbd-biQcg&oe=630F492C",
+      "groupId": "1"
+    },
+    {
+      "id": "TVpbxeKbI",
+      "name": "Donald Trump",
+      "company": "White House",
+      "email": "TrumpWhiteHouse@gmail.com",
+      "title": "President",
+      "mobile": "0999911513",
+      "photo": "https://i1-vnexpress.vnecdn.net/2022/01/13/5563187172178500a-Trump-7439-1642036246.jpg?w=0&h=0&q=100&dpr=2&fit=crop&s=VTl3_5HXHDwM_sLRnFHtmg",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Tam Phung",
+      "company": "NetCompany",
+      "email": "TamPhung@gmail.com",
+      "title": "Developer",
+      "mobile": "0123456798",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.18169-9/999968_1082364511816272_8712977521385457922_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=6ZzGOFo4T2QAX-yX7-j&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT9uDTMcdNBwCPTe6XVETawjRgz0yHEfpkABqPaMQw-FXQ&oe=6312CA28",
+      "groupId": "1"
+    },
+    {
+      "id": "ZquOrOczMb",
+      "name": "Tran Duy Hoang",
+      "company": "Not NetCompany Anymore",
+      "email": "DuyHoang@gmail.com",
+      "title": "Developer",
+      "mobile": "01234231398",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.6435-9/44093844_2820931634798799_8417394116358307840_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=7JA43P24cm0AX9j8PSe&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT-_BIg_AvSvylRTICpBmesfofel-BH_md7HZslQdA0krw&oe=631012DF",
+      "groupId": "4"
+    },
+    {
+      "id": "LtWYCSiTqu",
+      "name": "Nizky Wu",
+      "company": "NetCompany",
+      "email": "PhuongVo@gmail.com",
+      "title": "NetCompany President",
+      "mobile": "0993211513",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.6435-9/35463393_10209528153880805_1226853259163992064_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=0z6vIQEU3EQAX-e9L_J&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT85mliiAzZf7LV2VnTnQOK8i5DJYMQqOWx3EpQF89VWJQ&oe=6310085B",
+      "groupId": "3"
+    },
+    {
+      "id": "eQVpVVAga8",
+      "name": "Duong Thuy Chuong",
+      "company": "NetCompany",
+      "email": "ChuongDuong@gmail.com",
+      "title": "Developer",
+      "mobile": "0949911513",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/295691226_1525837244500522_6098566141223829826_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=x3Fzq5Gpz3UAX9h5n8j&tn=xbCYwBpydjWv86E_&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT8RvapvGCozCouZUJRyvUq7EDceBUSEKS1mXnuo0Zp2hw&oe=62F1624F",
+      "groupId": "5"
+    },
+    {
+      "id": "dLimS7_EZY",
+      "name": "Chau Hoai Thanh",
+      "company": "NetCompany",
+      "email": "ThanhHoai@gmail.com",
+      "title": "Developer",
+      "mobile": "0949912313",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/274237651_1021027552125356_1253695795993921629_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=CwZbx9JBb4QAX-A6oX-&tn=xbCYwBpydjWv86E_&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT-H8RWLnQhFufo7v4PISb6RCawH5JCnhepwgHTs9lhGpA&oe=62F6B6DF",
+      "groupId": "6"
+    },
+    {
+      "name": "Nguyen Cuong Phat",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t31.18172-8/11934514_404017776468363_1910523395864145097_o.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=lFoL9MYsBmoAX8Ip9xK&tn=xbCYwBpydjWv86E_&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT9EUnuQ-Y8CFn7uWp4XoWOIUxn5kXGSwfL-7fb9XmqINQ&oe=63127018",
+      "email": "phatcuong@gmail;.com",
+      "mobile": 1235488844,
+      "company": "NetCompany",
+      "title": "Test Specialist",
+      "groupId": "3",
+      "id": "sj7kd0S"
+    },
+    {
+      "name": "Nguyen Hoang MInh",
+      "email": "minhnguyen@gmail.com",
+      "photo": "https://cafef1.mediacdn.vn/thumb_w/150/CEO/CEO_06228.jpg",
+      "mobile": 12346885316,
+      "company": "KAC",
+      "title": "CEO",
+      "groupId": "2",
+      "id": "WGNJBZV"
+    },
+    {
+      "name": "Tu Quyen",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t1.6435-9/71200112_439814193296625_1581303569934450688_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=7XqaqHfF_TUAX98VlIR&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT9j0lVqnivOO9bFPZnjoqLZQ1xUpiSjW06MqMfu4BcUYA&oe=63131AF1",
+      "email": "tuquyen@gmail.com",
+      "mobile": 331568641,
+      "company": "NetCompany",
+      "title": "Test Specialist",
+      "groupId": "2",
+      "id": "fDsAFvi"
+    },
+    {
+      "name": "Quang Vu",
+      "email": "pqvu@netcompany.com",
+      "mobile": 21356468858,
+      "company": "NetCompany",
+      "title": "CEO",
+      "groupId": "1",
+      "id": "AhFh8N8",
+      "photo": "https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-6/271715393_1367059813747297_4934801920456318539_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=F5lb7B22PzwAX9Q5Zfp&tn=xbCYwBpydjWv86E_&_nc_ht=scontent.fsgn1-1.fna&oh=00_AT-YDkwvmuuSPXsWi9wzk9u0TM4j93BbatPFWaO0htcqXw&oe=62F61E83"
+    },
+    {
+      "name": "Nguyen Truong Dat",
+      "email": "ntdat@netcompany",
+      "mobile": 321586115,
+      "company": "NetCompany",
+      "title": "Team Lead - NLP AM Viet Nam",
+      "groupId": "2",
+      "photo": "https://media-exp1.licdn.com/dms/image/C5603AQHK7mbVcclZzw/profile-displayphoto-shrink_800_800/0/1624824221136?e=1665619200&v=beta&t=-FY5Z34ds9m0QU6s0uJN0b8T7eoq1LlskIpbxlZjqQs",
+      "id": "nlZJg2P"
+    },
+    {
+      "name": "Ngoc Huy",
+      "photo": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/240822754_4200466513382570_3983280139195803492_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=yx980z2nPn0AX8L65Vi&_nc_ht=scontent.fsgn2-5.fna&oh=00_AT8Rt0IHOKk_UX4ry0r8L6bfffugD-s--qgBayDddZuNeA&oe=62F698C3",
+      "email": "NgocHuy@gmail.com",
+      "mobile": 7777123214,
+      "company": "FPTSoftware",
+      "title": "Team Leader",
+      "groupId": "1",
+      "id": "TAfi5L_"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Community"
+    },
+    {
+      "id": "2",
+      "name": "Celebrity"
+    },
+    {
+      "id": "3",
+      "name": "Colleague"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    },
+    {
+      "id": "5",
+      "name": "Familly"
+    },
+    {
+      "id": "6",
+      "name": "Service"
+    }
+  ]
+}
